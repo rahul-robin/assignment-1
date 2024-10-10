@@ -86,6 +86,7 @@
   color: rgb(13, 19, 33);
   font-size: 16px;
   font-weight: 400;
+  line-height: 26px;
 }
 .web-description {
   text-align: center;
@@ -95,6 +96,7 @@
   color: rgb(13, 19, 33);
   font-size: 16px;
   font-weight: 400;
+  line-height: 26px;
 }
 .web-title {
   width: 390px;
@@ -119,7 +121,7 @@
   box-sizing: border-box;
   border: 1px solid rgb(13, 19, 33);
   opacity: 0.7;
-  margin-top: 35px;
+  margin-top: 45px;
 }
 .web-part-1,
 .web-part-2,
@@ -168,7 +170,7 @@
   width: 1140px;
   height: 775px;
   margin: 0 auto;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 .inspiration-heading {
   margin-top: 0;
@@ -184,6 +186,7 @@
   color: rgb(13, 19, 33);
   font-size: 16px;
   text-align: center;
+  line-height: 26px;
 }
 .watch-video {
   width: 1140px;
@@ -200,3 +203,14 @@
   margin-top: 30px;
 }
 /*------- inspiration section ends   -------*/
+
+/* ------ current target starts ------ */
+.current-target {
+  margin: 0 auto;
+  width: 1140px;
+  height: 460px;
+  border: 2px solid red;
+  margin-bottom: 100px;
+}
+
+/* ------ current target ends   ------ */
